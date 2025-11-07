@@ -1,118 +1,80 @@
-<!-- README per GitHub adattato a Manuel Magini -->
-<!doctype html>
-<html lang="it">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Manuel Magini — Portfolio</title>
-  <style>
-    body{background:#0d1117;color:#e6fff2;font-family:Inter,Segoe UI,Arial,sans-serif;margin:0;padding:24px}
-    .center{max-width:980px;margin:0 auto}
-    header{text-align:center}
-    img.avatar{border-radius:50%;border:4px solid #006400}
-    .badges img{margin:6px}
-    table.stats{width:100%;margin-top:18px;border-collapse:collapse}
-    .divider{height:4px;background:linear-gradient(90deg,#006400 0%,#2e8b57 100%);margin:20px 0}
-    .section{margin:18px 0;padding:12px;background:#071016;border-radius:12px}
-    .links td{vertical-align:top;padding:8px}
-    .stack{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
-    footer{text-align:center;margin-top:18px}
-    a{color:#8fd1a7}
-  </style>
-</head>
-<body>
-  <div class="center">
-    <header>
-      <a id="top"></a>
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Manuel%20Magini&fontSize=56&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=Full-Stack%20%7C%20Embedded%20%7C%20Elettromeccanico&descSize=18" alt="Header"/>
-      <p class="badges">
-        <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-004D40?style=for-the-badge" alt="Overview"/></a>
-        <a href="#projects"><img src="https://img.shields.io/badge/PROGETTI-00A36C?style=for-the-badge" alt="Projects"/></a>
-        <a href="#links"><img src="https://img.shields.io/badge/CONTATTI-006400?style=for-the-badge" alt="Links"/></a>
-        <a href="#stack"><img src="https://img.shields.io/badge/TECH_STACK-008000?style=for-the-badge" alt="Tech"/></a>
-      </p>
-    </header>
+# 👋 Magini Manuel
 
-    <div class="divider"></div>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Manuel%20Magini&fontAlign=50&fontSize=50&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=Full%20Stack%20Developer%20%7C%20Embedded%20Systems%20%7C%20AI%20&descAlign=50&descSize=18)
 
-    <a id="overview"></a>
-    <div class="section" style="display:flex;gap:16px;align-items:center">
-      <div style="flex:0 0 200px;text-align:center">
-        <img class="avatar" src="https://github.com/Ma100390.png" width="180" height="180" alt="Avatar Manuel"/>
-      </div>
-      <div style="flex:1">
-        <h1 style="color:#006400;margin:0">Manuel Magini</h1>
-        <p style="margin:8px 0;font-size:15px">Tecnico elettromeccanico con oltre 10 anni di esperienza industriale. Dal 2023 sviluppatore web e progettista di prodotti multimediali. Specializzato in SPA con Angular, PWA, integrazioni backend (Node.js/Express), database MySQL/MongoDB e API JWT.</p>
+<p align="center">
+  <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-004D40?style=for-the-badge"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROGETTI-00A36C?style=for-the-badge"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/TECH_STACK-008000?style=for-the-badge"/></a>
+  <a href="#contacts"><img src="https://img.shields.io/badge/CONTATTI-004D40?style=for-the-badge"/></a>
+</p>
 
-        <p style="margin:6px 0">
-          <a href="mailto:magini15@gmail.com">magini15@gmail.com</a> • <a href="tel:+393294057518">+39 329 405 7518</a> • <a href="https://github.com/Ma100390">github.com/Ma100390</a>
-        </p>
-      </div>
-    </div>
+---
 
-    <a id="projects"></a>
-    <div class="section">
-      <h2 style="color:#2e8b57;margin:0 0 8px 0">Progetti principali</h2>
-      <ul>
-        <li><strong>Vetrina Informatica</strong> — SPA Angular, PWA, Three.js, Particles.js, ottimizzazione Lighthouse, Google Analytics. <a href="https://www.vetrinainformatica.it/">vetrinainformatica.it</a></li>
-        <li><strong>Siti professionali</strong> — Siti responsive e accessibili per professionisti. Esempi: <a href="https://www.robertaperronepsicologa.it">robertaperronepsicologa.it</a>, <a href="https://www.trepetali.it">trepetali.it</a></li>
-        <li><strong>App Web Full‑stack</strong> — CRUD con autenticazione JWT, Node.js/Express, MySQL, Nodemailer, integrazioni NASA APOD e DeepL.</li>
-        <li><strong>Wheretogoinsalento</strong> — PWA multilingua con gestione contenuti via JSON. <a href="https://www.wheretogoinsalento.it/it/salento-puglia-italia">Link</a></li>
-      </ul>
-    </div>
+<a id="overview"></a>
+## 👨‍💻 Overview
 
-    <div class="section">
-      <h2 style="color:#2e8b57;margin:0 0 8px 0">Esperienza</h2>
-      <p style="margin:6px 0"><strong>Sviluppatore web freelance</strong> — dal 31 ott 2024. Progettazione front-end e back-end per clienti locali. Tecnologie: Angular, Node.js, Express, MySQL, MongoDB, Bootstrap, Angular Material.</p>
+**Magini Manuel** — Tecnico elettromeccanico con oltre 10 anni di esperienza nel settore industriale e dal 2023 sviluppatore web full stack. Appassionato di progettazione software, automazione e tecnologie AI.
 
-      <p style="margin:6px 0"><strong>Collaudatore / Montatore Elettromeccanico</strong> — esperienza in Lamborghini, Bonfiglioli, Philip Morris. Attività: collaudo motori, manutenzione linee 4.0, interventi meccanici ed elettrici, SAP.</p>
-    </div>
+🔧 **Competenze principali:**
+- Frontend: Angular, TypeScript, HTML5, CSS3, Bootstrap, Angular Material
+- Backend: Node.js, Express.js, JWT Auth, Nodemailer
+- Database: MySQL, MongoDB
+- Altri: Three.js, Particles.js, Lighthouse, Google Analytics
 
-    <div class="section">
-      <h2 style="color:#2e8b57;margin:0 0 8px 0">Competenze tecniche</h2>
-      <div class="stack">
-        <span>TypeScript</span>
-        <span>JavaScript</span>
-        <span>Angular</span>
-        <span>Node.js</span>
-        <span>Express.js</span>
-        <span>MySQL</span>
-        <span>MongoDB</span>
-        <span>Three.js / Particles.js</span>
-        <span>JWT / Auth</span>
-        <span>HTML5 / CSS3 / Bootstrap</span>
-        <span>Git</span>
-      </div>
-    </div>
+📍 *Basato in Emilia-Romagna, Italia*
 
-    <a id="links"></a>
-    <div class="section links">
-      <h2 style="color:#2e8b57;margin:0 0 8px 0">Contatti e link</h2>
-      <table>
-        <tr>
-          <td style="width:50%">
-            <p><strong>Sito personale</strong><br/><a href="https://www.vetrinainformatica.it/">vetrinainformatica.it</a></p>
-            <p><strong>GitHub</strong><br/><a href="https://github.com/Ma100390">github.com/Ma100390</a></p>
-            <p><strong>LinkedIn</strong><br/><a href="https://www.linkedin.com/in/manuel-magini-4430161a7/">manuel-magini</a></p>
-          </td>
-          <td style="width:50%">
-            <p><strong>Email</strong><br/><a href="mailto:magini15@gmail.com">magini15@gmail.com</a></p>
-            <p><strong>Telefono</strong><br/><a href="tel:+393294057518">+39 329 405 7518</a></p>
-          </td>
-        </tr>
-      </table>
-    </div>
+---
 
-    <a id="stack"></a>
-    <div class="section">
-      <h2 style="color:#2e8b57;margin:0 0 8px 0">Stack tecnico visivo</h2>
-      <p style="text-align:center"><img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,mysql,mongodb,three&theme=dark" alt="tech icons"/></p>
-    </div>
+<a id="projects"></a>
+## 🚀 Progetti principali
 
-    <footer>
-      <p style="font-size:13px;color:#9fd6b6">CV originale: Europass. Questo README è stato adattato dal tuo CV per GitHub. Scorri in alto per tornare al top.</p>
-      <p><a href="#top">Torna su</a></p>
-    </footer>
-  </div>
-</body>
-</html>
+### [Vetrina Informatica](https://www.vetrinainformatica.it)
+SPA sviluppata in Angular con backend Node.js e MySQL. Include PWA, Particles.js, e tracciamento Analytics.
+
+### [Wheretogoinsalento](https://www.wheretogoinsalento.it/it/salento-puglia-italia)
+Applicazione PWA multilingua con gestione contenuti via JSON e UI ottimizzata per mobile.
+
+### Siti professionali su misura
+Esempi: [robertaperronepsicologa.it](https://www.robertaperronepsicologa.it), [trepetali.it](https://www.trepetali.it)
+
+### App Web Full-Stack
+CRUD con autenticazione JWT, integrazione API NASA e DeepL, email automatiche tramite Nodemailer.
+
+---
+
+<a id="stack"></a>
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,mysql,mongodb,three,git,html,css&theme=dark" />
+</p>
+
+---
+
+<a id="contacts"></a>
+## 📬 Contatti
+
+📧 **Email:** [magini15@gmail.com](mailto:magini15@gmail.com)  
+📞 **Telefono:** [+39 329 405 7518](tel:+393294057518)  
+💻 **GitHub:** [github.com/Ma100390](https://github.com/Ma100390)  
+🔗 **LinkedIn:** [linkedin.com/in/manuel-magini-4430161a7](https://www.linkedin.com/in/manuel-magini-4430161a7/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma100390&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&icon_color=2E8B57" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ma100390&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=00A36C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=FFFFFF" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ma100390&bg_color=0D1117&color=FFFFFF&line=2E8B57&point=00A36C&area=true&hide_border=true&custom_title=Contributi%20GitHub" />
+</p>
+
+<p align="center">
+  <em style="color:#2E8B57">“Chi continua a esplorare non smette mai di crescere.”</em>
+</p>
+
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/TORNA%20SU-004D40?style=for-the-badge"/></a>
+</p>
