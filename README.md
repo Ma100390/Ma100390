@@ -29,9 +29,9 @@
 <a id="projects"></a>
 ## 🚀 Progetti principali Realizzati
 
-👉🏼 ### [VetrinaInformatica.it](https://www.vetrinainformatica.it)
-👉🏼 ### [RobertaPerronePsicologa.it](https://www.robertaperronepsicologa.it)
-👉🏼 ### [trePetali.it](https://www.trepetali.it)
+### 👉🏼 [VetrinaInformatica.it](https://www.vetrinainformatica.it)
+### 👉🏼 [RobertaPerronePsicologa.it](https://www.robertaperronepsicologa.it)
+### 👉🏼 [trePetali.it](https://www.trepetali.it)
 
 ---
 
