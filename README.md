@@ -41,7 +41,7 @@ Esempi: [robertaperronepsicologa.it](https://www.robertaperronepsicologa.it), [t
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,java,spring,cs,dotnet,python,mysql,postgres,mongodb,three,git,html,css,bootstrap,materialui,docker,jupyter,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,java,spring,cs,dotnet,python,mysql,postgres,mongodb,threejs,git,html,css,bootstrap,materialui,docker,jupyter,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
