@@ -27,13 +27,11 @@
 ---
 
 <a id="projects"></a>
-## 🚀 Progetti principali
+## 🚀 Progetti principali Realizzati
 
 ### [Vetrina Informatica](https://www.vetrinainformatica.it)
-SPA sviluppata in Angular 17. Include PWA, Particles.js, Three.js e ottimizzazioni SEO con Lighthouse.
-
-### Siti professionali su misura
-Esempi: [robertaperronepsicologa.it](https://www.robertaperronepsicologa.it), [trepetali.it](https://www.trepetali.it)
+### [robertaperronepsicologa.it](https://www.robertaperronepsicologa.it)
+### [trepetali.it](https://www.trepetali.it)
 
 ---
 
