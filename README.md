@@ -1,6 +1,6 @@
 # 👋 Magini Manuel
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Manuel%20Magini&fontAlign=50&fontSize=50&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=Full%20Stack%20Developer%20%7C%20Embedded%20Systems%20%7C%20AI%20&descAlign=50&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Manuel%20Magini&fontAlign=50&fontSize=50&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=Full%20Stack%20Developer%20%7C%20Cross-Platform%20%7C%20&descAlign=50&descAlignY=75&descSize=18)
 
 <p align="center">
   <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-004D40?style=for-the-badge"/></a>
@@ -17,12 +17,12 @@
 **Magini Manuel** — Tecnico elettromeccanico con oltre 10 anni di esperienza nel settore industriale e dal 2023 sviluppatore web full stack. Appassionato di progettazione software, automazione e tecnologie AI.
 
 🔧 **Competenze principali:**
-- Frontend: Angular, TypeScript, HTML5, CSS3, Bootstrap, Angular Material
-- Backend: Node.js, Express.js, JWT Auth, Nodemailer
-- Database: MySQL, MongoDB
-- Altri: Three.js, Particles.js, Lighthouse, Google Analytics
-
-📍 *Basato in Emilia-Romagna, Italia*
+- **Frontend:** Angular, TypeScript, Bootstrap, Angular Material, Next.js, Expo Go  
+- **Backend:** Node.js, Express.js, Java, .NET Core, Spring Boot, C#  
+- **Database:** MySQL, PostgreSQL, MongoDB (Atlas Cluster)  
+- **ORM & Data Layer:** JPA/Hibernate, Entity Framework Core, Prisma, Mongoose  
+- **Data & AI:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyMongo  
+- **DevOps & Tools:** Docker, Jupyter Notebook, Google Colab, Git, CI/CD
 
 ---
 
@@ -30,16 +30,10 @@
 ## 🚀 Progetti principali
 
 ### [Vetrina Informatica](https://www.vetrinainformatica.it)
-SPA sviluppata in Angular con backend Node.js e MySQL. Include PWA, Particles.js, e tracciamento Analytics.
-
-### [Wheretogoinsalento](https://www.wheretogoinsalento.it/it/salento-puglia-italia)
-Applicazione PWA multilingua con gestione contenuti via JSON e UI ottimizzata per mobile.
+SPA sviluppata in Angular 17. Include PWA, Particles.js, Three.js e ottimizzazioni SEO con Lighthouse.
 
 ### Siti professionali su misura
 Esempi: [robertaperronepsicologa.it](https://www.robertaperronepsicologa.it), [trepetali.it](https://www.trepetali.it)
-
-### App Web Full-Stack
-CRUD con autenticazione JWT, integrazione API NASA e DeepL, email automatiche tramite Nodemailer.
 
 ---
 
@@ -47,7 +41,7 @@ CRUD con autenticazione JWT, integrazione API NASA e DeepL, email automatiche tr
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,mysql,mongodb,three,git,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,java,spring,cs,dotnet,python,mysql,postgres,mongodb,three,git,html,css,bootstrap,materialui,docker,jupyter,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -56,7 +50,6 @@ CRUD con autenticazione JWT, integrazione API NASA e DeepL, email automatiche tr
 ## 📬 Contatti
 
 📧 **Email:** [magini15@gmail.com](mailto:magini15@gmail.com)  
-📞 **Telefono:** [+39 329 405 7518](tel:+393294057518)  
 💻 **GitHub:** [github.com/Ma100390](https://github.com/Ma100390)  
 🔗 **LinkedIn:** [linkedin.com/in/manuel-magini-4430161a7](https://www.linkedin.com/in/manuel-magini-4430161a7/)
 
