@@ -32,6 +32,7 @@
 ### 👉🏼 [VetrinaInformatica.it](https://www.vetrinainformatica.it)
 ### 👉🏼 [RobertaPerronePsicologa.it](https://www.robertaperronepsicologa.it)
 ### 👉🏼 [trePetali.it](https://www.trepetali.it)
+### 👉🏼 [Calcolo Macro Nutrienti](https://ma100390.github.io/FrontEnd_Angular17_Calcolo_MacroNutrienti/)
 
 ---
 
