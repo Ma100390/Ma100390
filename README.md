@@ -1,5 +1,3 @@
-# 👋 Magini Manuel
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Manuel%20Magini&fontAlign=50&fontSize=50&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=Full%20Stack%20Developer%20%7C%20Cross-Platform%20%7C%20&descAlign=50&descAlignY=75&descSize=18)
 
 <p align="center">
