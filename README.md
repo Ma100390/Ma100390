@@ -15,13 +15,13 @@
 **Magini Manuel** — Tecnico elettromeccanico con oltre 10 anni di esperienza nel settore industriale e dal 2023 sviluppatore web full stack. Appassionato di progettazione software, automazione e tecnologie AI.
 
 🔧 **Competenze principali:**
-- **Frontend:** Angular, TypeScript, Bootstrap, Angular Material, Next.js, Expo Go  
+- **Frontend:** Angular, TypeScript, Bootstrap, Angular Material, Next.js, Expo Go, Html, Css, Scss  
 - **Backend:** Node.js, Express.js, Java, .NET Core, Spring Boot, C#  
 - **Database:** MySQL, PostgreSQL, MongoDB (Atlas Cluster)  
 - **ORM & Data Layer:** JPA/Hibernate, Entity Framework Core, Prisma, Mongoose  
 - **Data & AI:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyMongo  
 - **DevOps & Tools:** Docker, Jupyter Notebook, Google Colab, Git, CI/CD
-
+- **CMD** Wordpress, Liferay 7.4.3 ga 30
 ---
 
 <a id="projects"></a>
@@ -29,7 +29,7 @@
 
 ### 👉🏼 [VetrinaInformatica.it](https://www.vetrinainformatica.it)
 ### 👉🏼 [RobertaPerronePsicologa.it](https://www.robertaperronepsicologa.it)
-### 👉🏼 [trePetali.it](https://www.trepetali.it)
+### 👉🏼 [TrePetali.it](https://www.trepetali.it)
 ### 👉🏼 [Calcolo Macro Nutrienti](https://ma100390.github.io/FrontEnd_Angular17_Calcolo_MacroNutrienti/)
 
 ---
